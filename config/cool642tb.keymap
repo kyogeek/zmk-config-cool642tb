@@ -22,7 +22,6 @@
             bindings = <&mkp MB1>;
             key-positions = <32 33>;
             layers = <0>;
-            timeout-ms = <50>;
         };
 
         // K + L でマウス右クリック (Layer 0 のみ有効)
@@ -30,7 +29,6 @@
             bindings = <&mkp MB2>;
             key-positions = <33 34>;
             layers = <0>;
-            timeout-ms = <50>;
         };
     };
 
