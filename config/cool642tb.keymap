@@ -25,12 +25,12 @@
 
         MS_BTN1_ {
             bindings = <&mkp MB1>;
-            key-positions = <23 24>;
+            key-positions = <18 19>;
         };
 
         MS_BTN2_ {
             bindings = <&mkp MB2>;
-            key-positions = <24 25>;
+            key-positions = <20 21>;
         };
 
         MS_BTN3_ {
