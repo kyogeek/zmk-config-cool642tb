@@ -30,7 +30,7 @@
 
         MS_BTN2_ {
             bindings = <&mkp MB2>;
-            key-positions = <20 21>;
+            key-positions = <19 20>;
         };
 
         MS_BTN3_ {
