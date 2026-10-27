@@ -35,7 +35,7 @@
 
         MS_BTN3_ {
             bindings = <&mkp MB3>;
-            key-positions = <17 18>;
+            key-positions = <18 20>;
         };
     };
 
